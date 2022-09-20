@@ -1,2 +1,0 @@
-# installing-ubuntu
-installing ubuntu 
